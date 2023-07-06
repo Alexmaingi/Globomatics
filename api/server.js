@@ -22,11 +22,11 @@ app.use(cookieParser());
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  dataSources
+  dataSources,
 });
 
 server.applyMiddleware({ app });
 
-app.listen(process.env.PORT || 4000, () => {
-  console.log(`graphQL running at port 4000`);
+app.listen(process.env.PORT || 5000, () => {
+  console.log(`graphQL running at port 5000`);
 });
