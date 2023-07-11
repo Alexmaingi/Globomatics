@@ -3658,6 +3658,27 @@
       "level": "Advanced",
       "day": "Thursday",
       "id": "d0b13b63-f276-44ad-8564-7b155415d1f4"
+    },
+    {
+      "title": "New session title",
+      "description": "This is the gretest session",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "b7029f98-7abd-4577-8194-a2567281b080"
+    },
+    {
+      "title": "New session title",
+      "description": "This is the gretest session",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "d564c306-4150-4e00-a566-d288d1364c5d"
+    },
+    {
+      "title": "New session title",
+      "description": "This is the gretest session",
+      "level": "Advanced",
+      "day": "Thursday",
+      "id": "2eb4f787-0aab-44c5-b0e0-3dc5bdef4b27"
     }
   ]
 }
